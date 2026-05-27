@@ -47,15 +47,27 @@
 
 ---
 
+### 🧩 Live on the Chrome Web Store
+
+> Open-source extensions I built for my current company — published, free, and installable today.
+
+[![A11y Scanner](https://img.shields.io/badge/Chrome%20Web%20Store-A11y%20Scanner-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/a11y-scanner/biebdbcmdpkmndakbacphffnfepajedl)
+&nbsp;
+[![AB Test Detector](https://img.shields.io/badge/Chrome%20Web%20Store-AB%20Test%20Detector-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ab-test-detector/nhcncmmhinbmgdnjcffmgedmhhbmkhfg)
+
+- ♿ **[A11y Scanner](https://chromewebstore.google.com/detail/a11y-scanner/biebdbcmdpkmndakbacphffnfepajedl)** — scans any web page for accessibility (a11y) issues and surfaces what to fix.
+- 🧪 **[AB Test Detector](https://chromewebstore.google.com/detail/ab-test-detector/nhcncmmhinbmgdnjcffmgedmhhbmkhfg)** — detects active A/B experiments running on a website.
+
+---
+
 ### 📌 Featured Projects
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| 🧪 [**ab-test-detector**](https://github.com/Ravindrabisht12/ab-test-detector) | Chrome extension that detects active A/B experiments running on any website. | JavaScript |
 | 🔌 [**trello-mcp**](https://github.com/Ravindrabisht12/trello-mcp) | A Model Context Protocol (MCP) server that lets AI assistants talk to Trello. | TypeScript |
 | 🏠 [**house-price-predictor**](https://github.com/Ravindrabisht12/house-price-predictor) | ML regression model that predicts housing prices from features. | Python · Jupyter |
+| 🚢 [**titanic-survival-predictor**](https://github.com/Ravindrabisht12/titanic-survival-predictor) | ML classification predicting Titanic passenger survival. | Python · Jupyter |
 | 📊 [**netflix-dashboard**](https://github.com/Ravindrabisht12/netflix-dashboard) | Dashboard surfacing insights from Netflix content data. | Data Viz |
-| ♿ [**Accessibility-Tool-a11y**](https://github.com/Ravindrabisht12/Accessibility-Tool-a11y) | Tooling to audit and improve web accessibility. | JavaScript |
 
 > <!-- 👉 EDIT: reorder these — put your proudest 4–6 on top, and pin the same ones via "Customize your pins". -->
 
