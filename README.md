@@ -17,9 +17,18 @@ Most of what's on this profile started as a fix for a problem I kept hitting at 
 - **Experimentation:** tools that show which A/B tests are running on a page and why one didn't fire.
 - **Accessibility:** scanners that find WCAG issues and explain how to fix them.
 - **MCP servers:** connecting AI assistants to everyday tools like Trello and WhatsApp, and watching what those tools actually do.
+- **AI design & security tools:** a design canvas your AI drives, and a scanner that ranks vulnerabilities by real risk.
 - **Fundamentals:** data structures, algorithms and system design in Java, plus a few machine learning side projects.
 
 Based in Almora, India. Happy to talk about experimentation, Chrome extensions and front-end engineering.
+
+---
+
+## Featured on Product Hunt
+
+<a href="https://www.producthunt.com/products/blobby-2?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-blobby-2" target="_blank" rel="noopener noreferrer"><img alt="blobby - Connect with ai tool and create your design. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1297927&amp;theme=light&amp;t=1793343480904"></a>
+
+[**Blobby**](https://github.com/Ravindrabisht12/blobby) is an open-source design canvas your AI drives. Ask Claude, Cursor, Codex or any MCP app for a design and it builds real HTML and CSS on desktop, tablet and mobile artboards. Click an element, leave a comment, and your AI makes the fix.
 
 ---
 
@@ -44,10 +53,17 @@ Free, published extensions you can install today.
 
 | Project | What it does | Tech |
 | --- | --- | --- |
+| [**blobby**](https://github.com/Ravindrabisht12/blobby) | Design canvas driven by your AI over MCP. Builds real HTML + CSS across desktop, tablet and mobile artboards, takes comment feedback, and exports clean code. No built-in model, account or API key. | JavaScript · Electron · MCP |
 | [**bridge**](https://github.com/Ravindrabisht12/bridge) | Sits between AI apps and their MCP servers. Logs every tool call, applies local policies and flags possible credential exposure. Runs on your machine with no account or API key. | TypeScript · Electron |
 | [**trello-mcp**](https://github.com/Ravindrabisht12/trello-mcp) | MCP server with about 35 tools for Trello boards, lists, cards, comments, checklists and labels. Works over stdio and HTTP. | TypeScript |
 | [**whatsapp-mcp**](https://github.com/Ravindrabisht12/whatsapp-mcp) | WhatsApp MCP server with two backends behind one tool set: a personal account, or Meta's Business Cloud API. | TypeScript |
 | [**axe-devtool-mcp**](https://github.com/Ravindrabisht12/axe-devtool-mcp) | Runs axe-core accessibility audits from Claude Code, Claude Desktop or Cursor. Scans a URL, HTML, a file or a whole site. | TypeScript · Playwright |
+
+### Security
+
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**iamsecure**](https://github.com/Ravindrabisht12/iamsecure) | Finds vulnerable dependencies and insecure code, ranked by real-world risk in your app rather than raw CVSS. Zero dependencies, optional AI review. Run it with `npx iamsecure`. | JavaScript · Node.js |
 
 ### Experimentation & accessibility
 
@@ -104,10 +120,10 @@ Free, published extensions you can install today.
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravindrabisht12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindrabisht12&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravindrabisht12&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravindrabisht12&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindrabisht12&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ravindrabisht12&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
