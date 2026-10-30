@@ -26,7 +26,7 @@ Based in Almora, India. Happy to talk about experimentation, Chrome extensions a
 
 ## Featured on Product Hunt
 
-<a href="https://www.producthunt.com/products/blobby-2?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-blobby-2" target="_blank" rel="noopener noreferrer"><img alt="blobby - Connect with ai tool and create your design. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1297927&amp;theme=light&amp;t=1793343480904"></a>
+[![Find me on Product Hunt](https://img.shields.io/badge/Find%20me%20on-Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1a1a)](https://www.producthunt.com/products/blobby-2)
 
 [**Blobby**](https://github.com/Ravindrabisht12/blobby) is an open-source design canvas your AI drives. Ask Claude, Cursor, Codex or any MCP app for a design and it builds real HTML and CSS on desktop, tablet and mobile artboards. Click an element, leave a comment, and your AI makes the fix.
 
@@ -42,8 +42,8 @@ Free, published extensions you can install today.
 
 | Extension | What it does |
 | --- | --- |
-| [**A11y Scanner**](https://chromewebstore.google.com/detail/a11y-scanner/biebdbcmdpkmndakbacphffnfepajedl) | Scans any web page for accessibility issues and lists what to fix. |
-| [**AB Test Detector**](https://chromewebstore.google.com/detail/ab-test-detector/nhcncmmhinbmgdnjcffmgedmhhbmkhfg) · [source](https://github.com/Ravindrabisht12/ab-test-detector) | Shows running and inactive experiments on any site, with experiment and variant IDs, for Optimizely, VWO, Convert, AB Tasty and Adobe Target. |
+| [**A11y Scanner**](https://chromewebstore.google.com/detail/a11y-scanner/biebdbcmdpkmndakbacphffnfepajedl) | Scans any web page for accessibility issues and lists what to fix. Built for a hackathon at BrillMark. |
+| [**AB Test Detector**](https://chromewebstore.google.com/detail/ab-test-detector/nhcncmmhinbmgdnjcffmgedmhhbmkhfg) · [source](https://github.com/Ravindrabisht12/ab-test-detector) | Shows running and inactive experiments on any site, with experiment and variant IDs, for Optimizely, VWO, Convert, AB Tasty and Adobe Target. Built while I was at BrillMark to debug A/B tests. |
 
 ---
 
@@ -69,7 +69,6 @@ Free, published extensions you can install today.
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [**ab-test-development**](https://github.com/Ravindrabisht12/ab-test-development) | A guide to building A/B tests without bugs: element waiting, flicker, SPA re-renders, tracking and QA checklists. | Docs |
 | [**ab-test-detector**](https://github.com/Ravindrabisht12/ab-test-detector) | Source for the AB Test Detector extension above. | JavaScript · Chrome MV3 |
 | [**Accessibility-Tool-a11y**](https://github.com/Ravindrabisht12/Accessibility-Tool-a11y) | Web-based accessibility checker. | TypeScript |
 
